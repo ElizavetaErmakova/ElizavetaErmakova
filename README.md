@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ElizavetaErmakova
+- 👋 Hi, I’m Elizaveta Ermakova
 - 👀 I’m interested in cars, dogs, music, houseplants and yoga
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me https://t.me/latinochrome
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 ElizavetaErmakova/ElizavetaErmakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
